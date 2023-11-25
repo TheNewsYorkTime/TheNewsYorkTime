@@ -1,5 +1,5 @@
 <img src = "flipped.png">
-<h1>Ashes (TheNewsYorkTime)</h1>
+<h1 align="center">Ashes (TheNewsYorkTime)</h1>
 <p align="center">Cat.
 <br>
 they/them
@@ -29,4 +29,4 @@ they/them
 </ul>
 </p>
  
-<img src = "not flipped.png">
+<img src = "notflipped.png">
