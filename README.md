@@ -18,5 +18,6 @@ they/them
   <br>
   <img src = "https://github-readme-streak-stats.herokuapp.com?user=TheNewsYorkTime&theme=dark&hide_border=true">
   <br>
-</a>
+ <!--START_SECTION:activity-->
+ <!--END_SECTION:activity-->
 <img src = "assets/not flipped.png">
