@@ -1,5 +1,5 @@
 <img src = "assets/flipped.png">
-<p align="center">Programmer that can't pick a language.
+<p align="center">Cat.
 <br>
 they/them
 <br>
