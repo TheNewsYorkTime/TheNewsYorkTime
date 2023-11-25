@@ -8,7 +8,7 @@ they/them
     <img src="https://komarev.com/ghpvc/?username=TheNewsYorkTime&style=for-the-badge&color=red" alt="Profile Views">
     <br>
     <br>
-    <img src="https://lanyard.cnrad.dev/api/582594004479246343?borderRadius=5px&animated=:true" />
+    <img src="https://lanyard.cnrad.dev/api/846862398907744338?borderRadius=5px&animated=:true" />
   <br>
   <br>
   </p>
