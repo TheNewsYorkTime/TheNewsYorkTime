@@ -18,10 +18,11 @@ they/them
   <br>
   <img src = "https://github-readme-streak-stats.herokuapp.com?user=TheNewsYorkTime&theme=dark&hide_border=true">
   <br>
- <!--START_SECTION:activity-->
+ <p><!--START_SECTION:activity-->
 1. ❗ Opened issue [#121](https://github.com/flathub/io.mrarm.mcpelauncher/issues/121) in [flathub/io.mrarm.mcpelauncher](https://github.com/flathub/io.mrarm.mcpelauncher)
 2. 🗣 Commented on [#6](https://github.com/The-CodingSloth/haha-funny-leetcode-extension/issues/6#issuecomment-1710576011) in [The-CodingSloth/haha-funny-leetcode-extension](https://github.com/The-CodingSloth/haha-funny-leetcode-extension)
 3. 🗣 Commented on [#6](https://github.com/The-CodingSloth/haha-funny-leetcode-extension/issues/6#issuecomment-1710301928) in [The-CodingSloth/haha-funny-leetcode-extension](https://github.com/The-CodingSloth/haha-funny-leetcode-extension)
 4. 🗣 Commented on [#6](https://github.com/The-CodingSloth/haha-funny-leetcode-extension/issues/6#issuecomment-1709289716) in [The-CodingSloth/haha-funny-leetcode-extension](https://github.com/The-CodingSloth/haha-funny-leetcode-extension)
- <!--END_SECTION:activity-->
+ <!--END_SECTION:activity--></p>
+ 
 <img src = "assets/not flipped.png">
