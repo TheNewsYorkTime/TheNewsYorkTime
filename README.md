@@ -1,4 +1,5 @@
-<img src = "assets/flipped.png">
+<img src = "flipped.png">
+<h1>Ashes (TheNewsYorkTime)</h1>
 <p align="center">Cat.
 <br>
 they/them
@@ -28,4 +29,4 @@ they/them
 </ul>
 </p>
  
-<img src = "assets/not flipped.png">
+<img src = "not flipped.png">
