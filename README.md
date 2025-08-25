@@ -4,7 +4,7 @@
 <br>
 they/them
 <br>
-17
+19
  <p align="center">
     <img src="https://komarev.com/ghpvc/?username=TheNewsYorkTime&style=for-the-badge&color=red" alt="Profile Views">
     <br>
