@@ -21,10 +21,10 @@ they/them
   <br>
  <ol>
  <!--START_SECTION:activity-->
-1. ❗ Opened issue [#329](https://github.com/goolord/alpha-nvim/issues/329) in [goolord/alpha-nvim](https://github.com/goolord/alpha-nvim)
-2. 🗣 Commented on [#948](https://github.com/seedvault-app/seedvault/issues/948#issuecomment-3247826746) in [seedvault-app/seedvault](https://github.com/seedvault-app/seedvault)
-3. 🗣 Commented on [#2266](https://github.com/futo-org/grayjay-android/issues/2266#issuecomment-3194036647) in [futo-org/grayjay-android](https://github.com/futo-org/grayjay-android)
-4. 🗣 Commented on [#582](https://github.com/futo-org/grayjay-android/issues/582#issuecomment-3194032555) in [futo-org/grayjay-android](https://github.com/futo-org/grayjay-android)
+1.  Labeled issue [#2894](https://github.com/futo-org/grayjay-android/issues/2894) in [futo-org/grayjay-android](https://github.com/futo-org/grayjay-android)
+2.  Labeled issue [#2894](https://github.com/futo-org/grayjay-android/issues/2894) in [futo-org/grayjay-android](https://github.com/futo-org/grayjay-android)
+3. ❗ Opened issue [#2894](https://github.com/futo-org/grayjay-android/issues/2894) in [futo-org/grayjay-android](https://github.com/futo-org/grayjay-android)
+4. 🗣 Commented on [#2615](https://github.com/futo-org/grayjay-android/issues/2615#issuecomment-3560428413) in [futo-org/grayjay-android](https://github.com/futo-org/grayjay-android)
 5. ❗ Opened issue [#2614](https://github.com/futo-org/grayjay-android/issues/2614) in [futo-org/grayjay-android](https://github.com/futo-org/grayjay-android)
  </li>
  <!--END_SECTION:activity-->
